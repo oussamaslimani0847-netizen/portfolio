@@ -1,6 +1,6 @@
 # 💼 Windows Server Infrastructure Lab
 
-## 👨‍💻 Mohammed Ghachoui
+## 👨‍💻 Oussama slimani
 
 **Digital Infrastructure Student | Systems & Network Administrator**
 
@@ -84,14 +84,14 @@ The **images** folder contains screenshots documenting each stage of the deploym
 
 ## 📬 Contact
 
-**Mohammed Ghachoui**
+**Oussama slimani**
 
-📧 Email: **Elghachouimohamed35@gmail.com**
+📧 Email: **oussamaslimani0847@gmail.com**
 
-📱 Phone: **+212 690 416 962**
+📱 Phone: **+212 632995171**
 
 🔗 LinkedIn:  
-https://www.linkedin.com/in/mohammed-ghachoui-93b250350
+www.linkedin.com/in/slimani-oussama-b0593536b
 
 ---
 
@@ -99,4 +99,4 @@ https://www.linkedin.com/in/mohammed-ghachoui-93b250350
 
 This project is published for educational and portfolio purposes.
 
-© 2026 Mohammed Ghachoui. All rights reserved.
+© 2026 Oussama slimani. All rights reserved.
